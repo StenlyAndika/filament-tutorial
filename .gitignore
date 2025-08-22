@@ -1,0 +1,22 @@
+# Laravel / PHP
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Laravel generated files
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/bootstrap/cache/*
+
+# Laravel environment files
+.env
+.env.*
+!.env.example
